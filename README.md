@@ -1,1 +1,1 @@
-![Codeforces Stats](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/codeforces_card.svg)
+![Codeforces Stats](https://raw.githubusercontent.com/lord-of-the-strings/lord-of-the-strings/main/codeforces_card.svg)
