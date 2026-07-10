@@ -1,0 +1,97 @@
+<svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="chase" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#39FF14" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#39FF14" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c8ffb0" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#39FF14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#39FF14" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0; -1 0" dur="3.2s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <style>
+      .bg   { fill:#1a1b26; }
+      .card { fill:#16161e; stroke:#2a2e42; stroke-width:1.5; rx:14; }
+      .lbl  { font-family:'JetBrains Mono','Courier New',monospace; fill:#c0caf5; font-size:16px; }
+      .pct  { font-family:'JetBrains Mono','Courier New',monospace; fill:#9ece6a; font-size:14px; }
+      .ttl  { font-family:'JetBrains Mono','Courier New',monospace; fill:#7aa2f7; font-size:20px; font-weight:bold; }
+      .trk  { fill:#232336; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="640" height="400" rx="18"/>
+  <rect class="card" x="8" y="8" width="624" height="384" rx="16"/>
+
+  <text x="32" y="46" class="ttl">$ cat ~/skills.log --bars</text>
+  <line x1="32" y1="58" x2="608" y2="58" stroke="#2a2e42" stroke-width="1"/>
+
+  <!-- Python -->
+  <text x="32" y="92" class="lbl">python</text>
+  <rect x="150" y="78" width="430" height="16" rx="8" class="trk"/>
+  <rect x="150" y="78" height="16" rx="8" fill="#39FF14" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="width" from="0" to="395" dur="1.6s" fill="freeze" begin="0.1s"/>
+  </rect>
+  <rect x="150" y="78" width="430" height="16" rx="8" fill="url(#chase)"/>
+  <text x="592" y="92" text-anchor="end" class="pct">92%</text>
+
+  <!-- TypeScript -->
+  <text x="32" y="132" class="lbl">typescript</text>
+  <rect x="150" y="118" width="430" height="16" rx="8" class="trk"/>
+  <rect x="150" y="118" height="16" rx="8" fill="#39FF14" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="width" from="0" to="365" dur="1.6s" fill="freeze" begin="0.25s"/>
+  </rect>
+  <rect x="150" y="118" width="430" height="16" rx="8" fill="url(#chase)"/>
+  <text x="592" y="132" text-anchor="end" class="pct">85%</text>
+
+  <!-- Rust -->
+  <text x="32" y="172" class="lbl">rust</text>
+  <rect x="150" y="158" width="430" height="16" rx="8" class="trk"/>
+  <rect x="150" y="158" height="16" rx="8" fill="#39FF14" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="width" from="0" to="322" dur="1.6s" fill="freeze" begin="0.4s"/>
+  </rect>
+  <rect x="150" y="158" width="430" height="16" rx="8" fill="url(#chase)"/>
+  <text x="592" y="172" text-anchor="end" class="pct">75%</text>
+
+  <!-- Lua / Hyprland config -->
+  <text x="32" y="212" class="lbl">lua/dotfiles</text>
+  <rect x="150" y="198" width="430" height="16" rx="8" class="trk"/>
+  <rect x="150" y="198" height="16" rx="8" fill="#39FF14" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="width" from="0" to="382" dur="1.6s" fill="freeze" begin="0.55s"/>
+  </rect>
+  <rect x="150" y="198" width="430" height="16" rx="8" fill="url(#chase)"/>
+  <text x="592" y="212" text-anchor="end" class="pct">89%</text>
+
+  <!-- Docker -->
+  <text x="32" y="252" class="lbl">docker</text>
+  <rect x="150" y="238" width="430" height="16" rx="8" class="trk"/>
+  <rect x="150" y="238" height="16" rx="8" fill="#39FF14" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="width" from="0" to="296" dur="1.6s" fill="freeze" begin="0.7s"/>
+  </rect>
+  <rect x="150" y="238" width="430" height="16" rx="8" fill="url(#chase)"/>
+  <text x="592" y="252" text-anchor="end" class="pct">69%</text>
+
+  <!-- Linux -->
+  <text x="32" y="292" class="lbl">linux</text>
+  <rect x="150" y="278" width="430" height="16" rx="8" class="trk"/>
+  <rect x="150" y="278" height="16" rx="8" fill="#39FF14" filter="url(#glow)" opacity="0.9">
+    <animate attributeName="width" from="0" to="412" dur="1.6s" fill="freeze" begin="0.85s"/>
+  </rect>
+  <rect x="150" y="278" width="430" height="16" rx="8" fill="url(#chase)"/>
+  <text x="592" y="292" text-anchor="end" class="pct">96%</text>
+
+  <line x1="32" y1="320" x2="608" y2="320" stroke="#2a2e42" stroke-width="1"/>
+  <text x="32" y="346" class="pct">[ six streams, one signal, zero padding ]</text>
+
+  <circle cx="592" cy="341" r="5" fill="#39FF14" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
