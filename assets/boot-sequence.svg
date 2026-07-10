@@ -26,32 +26,32 @@
 
   <rect class="bg" width="640" height="400" rx="18"/>
   <rect class="card" x="8" y="8" width="624" height="384" rx="16"/>
-  <text x="28" y="38" class="ttl">$ systemctl boot lord-of-the-strings.service</text>
+  <text x="28" y="38" class="ttl">$ sudo systemctl start --now lord-of-the-strings.service</text>
   <line x1="28" y1="50" x2="612" y2="50" stroke="#2a2e42" stroke-width="1"/>
 
   <g filter="url(#bglow)">
-    <text x="28" y="80"  class="ln"><tspan class="ok">[ok]</tspan> loading kernel module: string_theory.ko
+    <text x="28" y="80"  class="ln"><tspan class="ok">[ok]</tspan> loading kernel module: clueless
       <animate attributeName="opacity" from="0" to="1" begin="0.2s"  dur="0.4s" fill="freeze"/></text>
 
     <text x="28" y="108" class="ln"><tspan class="ok">[ok]</tspan> mounting /dev/creativity
       <animate attributeName="opacity" from="0" to="1" begin="0.7s"  dur="0.4s" fill="freeze"/></text>
 
-    <text x="28" y="136" class="ln"><tspan class="ok">[ok]</tspan> starting service: caffeine.service
+    <text x="28" y="136" class="ln"><tspan class="ok">[ok]</tspan> starting service: tinker.service
       <animate attributeName="opacity" from="0" to="1" begin="1.2s"  dur="0.4s" fill="freeze"/></text>
 
     <text x="28" y="164" class="ln"><tspan class="ok">[ok]</tspan> checking memory integrity — corruption diagnostics ready
       <animate attributeName="opacity" from="0" to="1" begin="1.7s"  dur="0.4s" fill="freeze"/></text>
 
-    <text x="28" y="192" class="ln"><tspan class="ok">[ok]</tspan> initializing hyprland compositor
+    <text x="28" y="192" class="ln"><tspan class="ok">[ok]</tspan> initializing compositor
       <animate attributeName="opacity" from="0" to="1" begin="2.2s"  dur="0.4s" fill="freeze"/></text>
 
     <text x="28" y="220" class="ln"><tspan class="ok">[ok]</tspan> applying theme: tokyo-night-neon
       <animate attributeName="opacity" from="0" to="1" begin="2.7s"  dur="0.4s" fill="freeze"/></text>
 
-    <text x="28" y="248" class="ln"><tspan class="ok">[ok]</tspan> arch linux detected — as expected
+    <text x="28" y="248" class="ln"><tspan class="ok">[ok]</tspan> broken systems detected — as expected
       <animate attributeName="opacity" from="0" to="1" begin="3.2s"  dur="0.4s" fill="freeze"/></text>
 
-    <text x="28" y="276" class="ln"><tspan class="fail">[retry]</tspan> attempting to sleep before 2am
+    <text x="28" y="276" class="ln"><tspan class="fail">[retry]</tspan> attempting to sleep
       <animate attributeName="opacity" from="0" to="1" begin="3.7s"  dur="0.4s" fill="freeze"/></text>
 
     <text x="28" y="304" class="ln"><tspan class="ok">[ok]</tspan> loading personality module: lord-of-the-strings
