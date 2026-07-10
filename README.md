@@ -73,34 +73,6 @@ I hold the position, formally, that a terminal is a stage; that a floating windo
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
 </div>
 
-### `~/fetch --stats --verbose`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lord-of-the-strings&show_icons=true&hide_border=true&bg_color=0f0f1a&title_color=39FF14&icon_color=39FF14&text_color=c0caf5&border_color=1a9c3f" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-of-the-strings&layout=compact&hide_border=true&bg_color=0f0f1a&title_color=39FF14&text_color=c0caf5&border_color=1a9c3f" width="40%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-of-the-strings&hide_border=true&background=0f0f1a&stroke=1a9c3f&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" width="60%" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
-</div>
- 
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
-</div>
-
 ### `~/currently --status`
 
 ```yaml
