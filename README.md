@@ -51,9 +51,9 @@
 
 ### `~/about.formal --no-truncate`
 
-I ᴀᴘᴘʀᴏᴀᴄʜ ꜱʏꜱᴛᴇᴍꜱ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴡɪᴛʜ ᴛʜᴇ ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴏꜰ ᴀ ᴄʀᴀꜰᴛꜱᴍᴀɴ ᴀɴᴅ ᴛʜᴇ ᴄᴜʀɪᴏꜱɪᴛʏ ᴏꜰ ᴀ ᴄᴏɴꜱᴛᴀɴᴛ ᴇxᴘʟᴏʀᴇʀ ᴏꜰ ᴜɴᴄʜᴀʀᴛᴇᴅ ᴅᴏᴍᴀɪɴꜱ. Mʏ ꜰᴏᴜɴᴅᴀᴛɪᴏɴꜱ ʀᴇꜱᴛ ɪɴ C ᴀɴᴅ Jᴀᴠᴀ, ᴛᴇᴍᴘᴇʀᴇᴅ ʙʏ ᴀ ᴡᴏʀᴋɪɴɢ ᴄᴏᴍᴍᴀɴᴅ ᴏꜰ ᴍᴇᴍᴏʀʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴛʜᴇ ᴅɪᴀɢɴᴏꜱɪꜱ ᴏꜰ ɪᴛꜱ ᴄᴏʀʀᴜᴘᴛɪᴏɴ, ᴀɴᴅ ᴇxᴛᴇɴᴅᴇᴅ ᴛʜʀᴏᴜɢʜ Pʏᴛʜᴏɴ, ᴡʜᴇʀᴇ ꜰʟᴜᴇɴᴄʏ ɪꜱ ꜱᴇᴄᴏɴᴅ ɴᴀᴛᴜʀᴇ.
+I ᴀᴘᴘʀᴏᴀᴄʜ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴡɪᴛʜ ᴛʜᴇ ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴏꜰ ᴀ ᴄʀᴀꜰᴛꜱᴍᴀɴ ᴀɴᴅ ᴛʜᴇ ᴄᴜʀɪᴏꜱɪᴛʏ ᴏꜰ ᴀN ᴇxᴘʟᴏʀᴇʀ. Mʏ ꜰᴏᴜɴᴅᴀᴛɪᴏɴꜱ ʀᴇꜱᴛ ɪɴ C ᴀɴᴅ Jᴀᴠᴀ, ᴛᴇᴍᴘᴇʀᴇᴅ ʙʏ ᴀ ᴡᴏʀᴋɪɴɢ ᴄᴏᴍᴍᴀɴᴅ ᴏꜰ ᴍᴇᴍᴏʀʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴛʜᴇ ᴅɪᴀɢɴᴏꜱɪꜱ ᴏꜰ ɪᴛꜱ ᴄᴏʀʀᴜᴘᴛɪᴏɴ; ᴀɴᴅ ᴇxᴛᴇɴᴅᴇᴅ ᴛʜʀᴏᴜɢʜ Pʏᴛʜᴏɴ, ᴡʜᴇʀᴇ ꜰʟᴜᴇɴᴄʏ ɪꜱ ꜱᴇᴄᴏɴᴅ ɴᴀᴛᴜʀᴇ.
 
-Eʟꜱᴇᴡʜᴇʀᴇ, I ʀᴇᴍᴀɪɴ ᴀ ᴅᴇʟɪʙᴇʀᴀᴛᴇ ʟᴇᴀʀɴᴇʀ — ɪɴ Rᴜꜱᴛ, ɪɴ ᴍᴏᴅᴇʀɴ ᴡᴇʙ ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ, ᴀɴᴅ ɪɴ ᴛʜᴇ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ʟᴀɴᴅꜱᴄᴀᴘᴇ I ᴀᴍ ᴏɴʟʏ ʙᴇɢɪɴɴɪɴɢ ᴛᴏ ᴄʜᴀʀᴛ. Oɴ Lɪɴᴜx — ꜱᴘᴇᴄɪꜰɪᴄᴀʟʟʏ Aʀᴄʜ, ʀᴜɴ ᴅᴀɪʟʏ ᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ᴀᴘᴏʟᴏɢʏ — I ᴀᴍ ꜰᴜʟʟʏ ᴀᴛ ʜᴏᴍᴇ, ᴡʜɪʟᴇ ᴍʏ ɢʀᴀꜱᴘ ᴏꜰ HTML ᴀɴᴅ CSS ʀᴇᴍᴀɪɴꜱ ᴛʜᴀᴛ ᴏꜰ ᴀ ᴋɴᴏᴡɪɴɢ ɢᴇɴᴇʀᴀʟɪꜱᴛ ʀᴀᴛʜᴇʀ ᴛʜᴀɴ ᴀ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ.
+Eʟꜱᴇᴡʜᴇʀᴇ, I ʀᴇᴍᴀɪɴ ᴀ ᴅᴇʟɪʙᴇʀᴀᴛᴇ ʟᴇᴀʀɴᴇʀ: ɪɴ Rᴜꜱᴛ, ɪɴ ᴍᴏᴅᴇʀɴ ᴡᴇʙ ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ, ᴀɴᴅ ɪɴ ᴛʜᴇ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ʟᴀɴᴅꜱᴄᴀᴘᴇ I ᴀᴍ ᴏɴʟʏ ʙᴇɢɪɴɴɪɴɢ ᴛᴏ ᴄʜᴀʀᴛ. Oɴ Lɪɴᴜx: ꜱᴘᴇᴄɪꜰɪᴄᴀʟʟʏ Aʀᴄʜ, ʀᴜɴ ᴅᴀɪʟʏ ᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ᴀᴘᴏʟᴏɢʏ — I ᴀᴍ ꜰᴜʟʟʏ ᴀᴛ ʜᴏᴍᴇ, ᴡʜɪʟᴇ ᴍʏ ɢʀᴀꜱᴘ ᴏꜰ HTML ᴀɴᴅ CSS ʀᴇᴍᴀɪɴꜱ ᴛʜᴀᴛ ᴏꜰ ᴀ ɢᴇɴᴇʀᴀʟɪꜱᴛ ʀᴀᴛʜᴇʀ ᴛʜᴀɴ ᴀ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
@@ -111,7 +111,7 @@ compiling:   patience, from source, again
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=%5B%20100%25%20%5D%20profile.load()%20✓&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=DON'T%20WAIT%DO%IT%NOW&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
 
 *ᴄᴏɴɴᴇᴄᴛ, ꜰᴏʀᴋ, ᴏʀ ᴏᴘᴇɴ ᴀ ᴘᴜʟʟ ʀᴇǫᴜᴇꜱᴛ - ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴅᴏ'ᴄʀᴀᴄʏ*
 
