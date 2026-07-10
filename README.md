@@ -1,27 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&text=lord-of-the-strings&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=binds%20chords%2C%20not%20just%20variables&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&text=AADITY%20SETU&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=constatnt%20explorer%20of%20the%20uncharted%20seas&descAlignY=62&descSize=16" width="100%"/>
 
 ```
-                     /\                    root@lord-of-the-strings
-                    /  \                   -------------------------
-                   /    \                  OS: Arch Linux x86_64
-                  /      \                 Host: github.com/lord-of-the-strings
-                 /   /\   \                Kernel: 6.9.1-arch1-1
-                /   /  \   \               Uptime: since semicolons made sense
-               /   /____\   \              Shell: zsh 5.9
-              /   ,'    '.   \             WM: Hyprland (floating, animated)
-             /  ,'        ',  \            Terminal: kitty — opacity 0.94, blur 22
-            /_-'            '-_\           CPU: caffeine @ 99% load (always)
-                                            Memory: 2GiB thoughts / 640KiB regrets
-                                            Theme: Tokyo Night [Storm] + neon overclock
-                                            Motto: constant explorer of uncharted domains
+     ████████        ██████████      root@lord-of-the-strings
+   ████    ████     ████              -------------------------
+   ████    ████     ████              OS: no idea
+   ████    ████       ████████        Host: github.com/lord-of-the-strings
+   ████████████               ████    Kernel: also no idea
+   ████    ████               ████    Shell: constantly changing
+   ████    ████     ████    ████      WM: no attention paid
+   ████    ████       ████████        Terminal: whatever
+                                       CPU: caffeine @ 99% load (always)
+                                       Memory: 2GiB thoughts / 640KiB regrets
+                                       Theme: Tokyo Night [Storm] + neon overclock
+                                       Motto: constant explorer of uncharted seas
 
-                                            ● ● ● ● ● ● ● ●
+                                       ● ● ● ● ● ● ● ●
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=3&width=100%25" width="100%"/>
 
+</div>
+
+### `~/boot --sequence --verbose`
+
+<div align="center">
+
+<img src="./assets/boot-sequence.svg" width="88%" alt="animated neon boot sequence"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
 </div>
 
 <h2 align="center">
