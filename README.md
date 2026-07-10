@@ -26,11 +26,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=680&lines=compiling+silence+into+sound;rendering+at+165hz%2C+thinking+at+60fps;git+commit+-m+%22it+works+on+my+machine%22;sudo+make+me+a+sandwich+--formal" alt="Typing SVG" />
 </h2>
 
-<p align="center">
-  <sub><em>A profile assembled the way a compositor assembles a frame —<br/>
-  every element eased in, nothing allowed to simply <code>appear</code>.</em></sub>
-</p>
-
 <div align="center">
 
 ![Tokyo Night](https://img.shields.io/badge/palette-Tokyo%20Night%20Storm-1a1b26?style=for-the-badge&labelColor=0f0f1a&color=39FF14)
@@ -43,7 +38,7 @@
 
 ### `~/about.formal --no-truncate`
 
-I engineer systems the way one tunes an instrument: by ear, under pressure, and with an unreasonable attention to the silence between notes. My work lives at the intersection of correctness and composition — code that passes its tests, and interfaces that would not look out of place gliding across a Hyprland workspace at 3 a.m.
+I engineer systems the way one tunes an instrument: by ear, under pressure, and with an unreasonable attention to the silence between notes. My work lives at the intersection of correctness and composition.
 
 I hold the position, formally, that a terminal is a stage; that a floating window animation is a thesis statement; and that any dashboard rendered on a light background is, at minimum, a cry for help.
 
@@ -114,27 +109,6 @@ I hold the position, formally, that a terminal is a stage; that a floating windo
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
 </div>
 
-### `~/hyprland.conf --excerpt`
-
-```conf
-# the philosophy this profile borrows from, verbatim
-animations {
-    enabled = true
-    bezier  = wind, 0.05, 0.9, 0.1, 1.05
-    animation = windowsIn,  1, 6, wind, popin 80%
-    animation = windowsOut, 1, 5, wind, popin 80%
-    animation = fade,       1, 8, default
-    animation = workspaces, 1, 5, wind
-    animation = border,     1, 10, default
-}
-
-decoration {
-    blur { enabled = true; size = 6; passes = 3; }
-    shadow { enabled = true; color = rgba(39FF14aa) }
-}
-# nothing here snaps into place. neither does this readme.
-```
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
 </div>
@@ -153,6 +127,6 @@ compiling:   patience, from source, again
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=%5B%20100%25%20%5D%20profile.load()%20✓&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
 
-*connect, fork, or open a pull request — every window here is accepted, and every one of them animates in.*
+*connect, fork, or open a pull request - let's connect with do'cracy*
 
 </div>
