@@ -111,7 +111,7 @@ compiling:   patience, from source, again
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=DON'T%20WAIT%DO%IT%NOW&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=DON'T%20WAIT%20DO%20IT%20NOW&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
 
 *ᴄᴏɴɴᴇᴄᴛ, ꜰᴏʀᴋ, ᴏʀ ᴏᴘᴇɴ ᴀ ᴘᴜʟʟ ʀᴇǫᴜᴇꜱᴛ - ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴅᴏ'ᴄʀᴀᴄʏ*
 
