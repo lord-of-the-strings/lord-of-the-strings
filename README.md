@@ -89,19 +89,7 @@ I hold the position, formally, that a terminal is a stage; that a floating windo
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
 </div>
-
-### `~/contributions --animate=snake`
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lord-of-the-strings/lord-of-the-strings/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="neon contribution snake" src="https://raw.githubusercontent.com/lord-of-the-strings/lord-of-the-strings/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-<!--END_SECTION:activity-->
-
-<sub>rendered by a small green process that eats its own history, once every six hours — see <code>.github/workflows/snake.yml</code></sub>
+ 
 
 </div>
 
