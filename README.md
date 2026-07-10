@@ -5,14 +5,14 @@
 ```
      ████████        ██████████      root@lord-of-the-strings
    ████    ████     ████              -------------------------
-   ████    ████     ████              OS: no idea
-   ████    ████       ████████        Host: github.com/lord-of-the-strings
-   ████████████               ████    Kernel: also no idea
-   ████    ████               ████    Shell: constantly changing
-   ████    ████     ████    ████      WM: no attention paid
-   ████    ████       ████████        Terminal: whatever
+   ████    ████     ████               OS: no idea
+   ████    ████       ████████         Host: github.com/lord-of-the-strings
+   ████████████               ████     Kernel: also no idea
+   ████    ████               ████     Shell: constantly changing
+   ████    ████     ████    ████       WM: no attention paid
+   ████    ████       ████████         Terminal: whatever
                                        CPU: caffeine @ 99% load (always)
-                                       Memory: 2GiB thoughts / 640KiB regrets
+                                       Memory: 404 not found
                                        Theme: Tokyo Night [Storm] + neon overclock
                                        Motto: constant explorer of uncharted seas
 
