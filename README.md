@@ -1,1 +1,158 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&text=lord-of-the-strings&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=binds%20chords%2C%20not%20just%20variables&descAlignY=62&descSize=16" width="100%"/>
+
+```
+╭──────────────────────────────────────────────────────────────────╮
+│  root@lord-of-the-strings                              tty1      │
+├──────────────────────────────────────────────────────────────────┤
+│  OS:         Sentient(ish) x86_64                                 │
+│  Host:       github.com/lord-of-the-strings                       │
+│  Kernel:     6.9.1-string-theory                                   │
+│  Shell:      zsh --with-opinions                                   │
+│  WM:         Hyprland (floating, animated, unapologetic)            │
+│  Theme:      Tokyo Night [Storm] + neon-green overclock             │
+│  Terminal:   kitty, 0.94 opacity, blur(22)                          │
+│  CPU:        caffeine (99% load, always)                            │
+│  Uptime:     since before semicolons made sense to me                │
+╰──────────────────────────────────────────────────────────────────╯
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=3&width=100%25" width="100%"/>
+
+</div>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=680&lines=compiling+silence+into+sound;rendering+at+165hz%2C+thinking+at+60fps;git+commit+-m+%22it+works+on+my+machine%22;sudo+make+me+a+sandwich+--formal" alt="Typing SVG" />
+</h2>
+
+<p align="center">
+  <sub><em>A profile assembled the way a compositor assembles a frame —<br/>
+  every element eased in, nothing allowed to simply <code>appear</code>.</em></sub>
+</p>
+
+<div align="center">
+
+![Tokyo Night](https://img.shields.io/badge/palette-Tokyo%20Night%20Storm-1a1b26?style=for-the-badge&labelColor=0f0f1a&color=39FF14)
+![Status](https://img.shields.io/badge/status-recompiling%20reality-1a1b26?style=for-the-badge&labelColor=0f0f1a&color=39FF14)
+![Frame_time](https://img.shields.io/badge/frame_time-lower%20is%20vanity-1a1b26?style=for-the-badge&labelColor=0f0f1a&color=39FF14)
+
+</div>
+
+---
+
+### `~/about.formal --no-truncate`
+
+I engineer systems the way one tunes an instrument: by ear, under pressure, and with an unreasonable attention to the silence between notes. My work lives at the intersection of correctness and composition — code that passes its tests, and interfaces that would not look out of place gliding across a Hyprland workspace at 3 a.m.
+
+I hold the position, formally, that a terminal is a stage; that a floating window animation is a thesis statement; and that any dashboard rendered on a light background is, at minimum, a cry for help.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
+</div>
+
+### `~/skills --render=neon`
+
+<div align="center">
+
+<img src="./assets/neon-bars.svg" width="88%" alt="animated neon skill bars"/>
+
+</div>
+
+<div align="center">
+
+**stack, for the record**
+
+![Python](https://img.shields.io/badge/-Python-0f0f1a?style=flat-square&logo=python&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0f0f1a?style=flat-square&logo=typescript&logoColor=39FF14)
+![Rust](https://img.shields.io/badge/-Rust-0f0f1a?style=flat-square&logo=rust&logoColor=39FF14)
+![Lua](https://img.shields.io/badge/-Lua-0f0f1a?style=flat-square&logo=lua&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-0f0f1a?style=flat-square&logo=docker&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/-Linux-0f0f1a?style=flat-square&logo=linux&logoColor=39FF14)
+![Neovim](https://img.shields.io/badge/-Neovim-0f0f1a?style=flat-square&logo=neovim&logoColor=39FF14)
+![Hyprland](https://img.shields.io/badge/-Hyprland-0f0f1a?style=flat-square&logo=wayland&logoColor=39FF14)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
+</div>
+
+### `~/fetch --stats --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lord-of-the-strings&show_icons=true&hide_border=true&bg_color=0f0f1a&title_color=39FF14&icon_color=39FF14&text_color=c0caf5&border_color=1a9c3f" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-of-the-strings&layout=compact&hide_border=true&bg_color=0f0f1a&title_color=39FF14&text_color=c0caf5&border_color=1a9c3f" width="40%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-of-the-strings&hide_border=true&background=0f0f1a&stroke=1a9c3f&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" width="60%" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
+</div>
+
+### `~/contributions --animate=snake`
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lord-of-the-strings/lord-of-the-strings/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="neon contribution snake" src="https://raw.githubusercontent.com/lord-of-the-strings/lord-of-the-strings/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+<!--END_SECTION:activity-->
+
+<sub>rendered by a small green process that eats its own history, once every six hours — see <code>.github/workflows/snake.yml</code></sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
+</div>
+
+### `~/hyprland.conf --excerpt`
+
+```conf
+# the philosophy this profile borrows from, verbatim
+animations {
+    enabled = true
+    bezier  = wind, 0.05, 0.9, 0.1, 1.05
+    animation = windowsIn,  1, 6, wind, popin 80%
+    animation = windowsOut, 1, 5, wind, popin 80%
+    animation = fade,       1, 8, default
+    animation = workspaces, 1, 5, wind
+    animation = border,     1, 10, default
+}
+
+decoration {
+    blur { enabled = true; size = 6; passes = 3; }
+    shadow { enabled = true; color = rgba(39FF14aa) }
+}
+# nothing here snaps into place. neither does this readme.
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
+</div>
+
+### `~/currently --status`
+
+```yaml
+building:    something scheduled to be rewritten in rust eventually
+debugging:   a race condition visible only when unobserved
+listening:   at a volume too low to justify the headphones
+reading:     other people's commit messages, for the drama
+compiling:   patience, from source, again
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=%5B%20100%25%20%5D%20profile.load()%20✓&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
+
+*connect, fork, or open a pull request — every window here is accepted, and every one of them animates in.*
+
+</div>
