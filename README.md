@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&text=lord-of-the-strings&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=constant%20explorer%20of%20uncharted%20domains&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&AADITY%20SETU&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=constant%20explorer%20of%20uncharted%20domains&descAlignY=62&descSize=16" width="100%"/>
 
 ```
 ╭──────────────────────────────────────────────────────────────────╮
