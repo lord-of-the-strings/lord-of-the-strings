@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&text=AADITY%20SETU&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=constant%20explorer%20of%20uncharted%20seas&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&text=lord-of-the-strings&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=binds%20chords%2C%20not%20just%20variables&descAlignY=62&descSize=16" width="100%"/>
 
 ```
-╭──────────────────────────────────────────────────────────────────╮
-│  root@lord-of-the-strings                              tty1      │
-├──────────────────────────────────────────────────────────────────┤
-│  OS:         Sentient(ish) x86_64                                 │
-│  Host:       github.com/lord-of-the-strings                       │
-│  Kernel:     6.9.1-string-theory                                   │
-│  Shell:      zsh --with-opinions                                   │
-│  WM:         Hyprland (floating, animated, unapologetic)            │
-│  Theme:      Tokyo Night [Storm] + neon-green overclock             │
-│  Terminal:   kitty, 0.94 opacity, blur(22)                          │
-│  CPU:        caffeine (99% load, always)                            │
-│  Uptime:     since before semicolons made sense to me                │
-╰──────────────────────────────────────────────────────────────────╯
+                     /\                    root@lord-of-the-strings
+                    /  \                   -------------------------
+                   /    \                  OS: Arch Linux x86_64
+                  /      \                 Host: github.com/lord-of-the-strings
+                 /   /\   \                Kernel: 6.9.1-arch1-1
+                /   /  \   \               Uptime: since semicolons made sense
+               /   /____\   \              Shell: zsh 5.9
+              /   ,'    '.   \             WM: Hyprland (floating, animated)
+             /  ,'        ',  \            Terminal: kitty — opacity 0.94, blur 22
+            /_-'            '-_\           CPU: caffeine @ 99% load (always)
+                                            Memory: 2GiB thoughts / 640KiB regrets
+                                            Theme: Tokyo Night [Storm] + neon overclock
+                                            Motto: constant explorer of uncharted domains
+
+                                            ● ● ● ● ● ● ● ●
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=3&width=100%25" width="100%"/>
@@ -38,9 +40,9 @@
 
 ### `~/about.formal --no-truncate`
 
-I engineer systems the way one tunes an instrument: by ear, under pressure, and with an unreasonable attention to the silence between notes. My work lives at the intersection of correctness and composition.
+I ᴀᴘᴘʀᴏᴀᴄʜ ꜱʏꜱᴛᴇᴍꜱ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴡɪᴛʜ ᴛʜᴇ ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴏꜰ ᴀ ᴄʀᴀꜰᴛꜱᴍᴀɴ ᴀɴᴅ ᴛʜᴇ ᴄᴜʀɪᴏꜱɪᴛʏ ᴏꜰ ᴀ ᴄᴏɴꜱᴛᴀɴᴛ ᴇxᴘʟᴏʀᴇʀ ᴏꜰ ᴜɴᴄʜᴀʀᴛᴇᴅ ᴅᴏᴍᴀɪɴꜱ. Mʏ ꜰᴏᴜɴᴅᴀᴛɪᴏɴꜱ ʀᴇꜱᴛ ɪɴ C ᴀɴᴅ Jᴀᴠᴀ, ᴛᴇᴍᴘᴇʀᴇᴅ ʙʏ ᴀ ᴡᴏʀᴋɪɴɢ ᴄᴏᴍᴍᴀɴᴅ ᴏꜰ ᴍᴇᴍᴏʀʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴛʜᴇ ᴅɪᴀɢɴᴏꜱɪꜱ ᴏꜰ ɪᴛꜱ ᴄᴏʀʀᴜᴘᴛɪᴏɴ, ᴀɴᴅ ᴇxᴛᴇɴᴅᴇᴅ ᴛʜʀᴏᴜɢʜ Pʏᴛʜᴏɴ, ᴡʜᴇʀᴇ ꜰʟᴜᴇɴᴄʏ ɪꜱ ꜱᴇᴄᴏɴᴅ ɴᴀᴛᴜʀᴇ.
 
-I hold the position, formally, that a terminal is a stage; that a floating window animation is a thesis statement; and that any dashboard rendered on a light background is, at minimum, a cry for help.
+Eʟꜱᴇᴡʜᴇʀᴇ, I ʀᴇᴍᴀɪɴ ᴀ ᴅᴇʟɪʙᴇʀᴀᴛᴇ ʟᴇᴀʀɴᴇʀ — ɪɴ Rᴜꜱᴛ, ɪɴ ᴍᴏᴅᴇʀɴ ᴡᴇʙ ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ, ᴀɴᴅ ɪɴ ᴛʜᴇ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ʟᴀɴᴅꜱᴄᴀᴘᴇ I ᴀᴍ ᴏɴʟʏ ʙᴇɢɪɴɴɪɴɢ ᴛᴏ ᴄʜᴀʀᴛ. Oɴ Lɪɴᴜx — ꜱᴘᴇᴄɪꜰɪᴄᴀʟʟʏ Aʀᴄʜ, ʀᴜɴ ᴅᴀɪʟʏ ᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ᴀᴘᴏʟᴏɢʏ — I ᴀᴍ ꜰᴜʟʟʏ ᴀᴛ ʜᴏᴍᴇ, ᴡʜɪʟᴇ ᴍʏ ɢʀᴀꜱᴘ ᴏꜰ HTML ᴀɴᴅ CSS ʀᴇᴍᴀɪɴꜱ ᴛʜᴀᴛ ᴏꜰ ᴀ ᴋɴᴏᴡɪɴɢ ɢᴇɴᴇʀᴀʟɪꜱᴛ ʀᴀᴛʜᴇʀ ᴛʜᴀɴ ᴀ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
@@ -56,16 +58,29 @@ I hold the position, formally, that a terminal is a stage; that a floating windo
 
 <div align="center">
 
-**stack, for the record**
+**ꜱᴛᴀᴄᴋ, ꜰᴏʀ ᴛʜᴇ ʀᴇᴄᴏʀᴅ**
 
+*Expert*
+![C](https://img.shields.io/badge/-C-0f0f1a?style=flat-square&logo=c&logoColor=39FF14)
+![Java](https://img.shields.io/badge/-Java-0f0f1a?style=flat-square&logo=openjdk&logoColor=39FF14)
 ![Python](https://img.shields.io/badge/-Python-0f0f1a?style=flat-square&logo=python&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0f0f1a?style=flat-square&logo=typescript&logoColor=39FF14)
-![Rust](https://img.shields.io/badge/-Rust-0f0f1a?style=flat-square&logo=rust&logoColor=39FF14)
-![Lua](https://img.shields.io/badge/-Lua-0f0f1a?style=flat-square&logo=lua&logoColor=39FF14)
+![Flask](https://img.shields.io/badge/-Flask-0f0f1a?style=flat-square&logo=flask&logoColor=39FF14)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-0f0f1a?style=flat-square&logo=archlinux&logoColor=39FF14)
+
+*Knower*
+![HTML5](https://img.shields.io/badge/-HTML5-0f0f1a?style=flat-square&logo=html5&logoColor=39FF14)
+![CSS3](https://img.shields.io/badge/-CSS3-0f0f1a?style=flat-square&logo=css3&logoColor=39FF14)
+
+*Learner*
+![C++](https://img.shields.io/badge/-C%2B%2B-0f0f1a?style=flat-square&logo=cplusplus&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0f0f1a?style=flat-square&logo=fastapi&logoColor=39FF14)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0f0f1a?style=flat-square&logo=springboot&logoColor=39FF14)
 ![Docker](https://img.shields.io/badge/-Docker-0f0f1a?style=flat-square&logo=docker&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/-Linux-0f0f1a?style=flat-square&logo=linux&logoColor=39FF14)
-![Neovim](https://img.shields.io/badge/-Neovim-0f0f1a?style=flat-square&logo=neovim&logoColor=39FF14)
-![Hyprland](https://img.shields.io/badge/-Hyprland-0f0f1a?style=flat-square&logo=wayland&logoColor=39FF14)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0f0f1a?style=flat-square&logo=scikitlearn&logoColor=39FF14)
+
+*Beginner*
+![Django](https://img.shields.io/badge/-Django-0f0f1a?style=flat-square&logo=django&logoColor=39FF14)
+![Rust](https://img.shields.io/badge/-Rust-0f0f1a?style=flat-square&logo=rust&logoColor=39FF14)
 
 </div>
 
@@ -87,6 +102,6 @@ compiling:   patience, from source, again
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=%5B%20100%25%20%5D%20profile.load()%20✓&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
 
-*connect, fork, or open a pull request - let's connect with do'cracy*
+*ᴄᴏɴɴᴇᴄᴛ, ꜰᴏʀᴋ, ᴏʀ ᴏᴘᴇɴ ᴀ ᴘᴜʟʟ ʀᴇǫᴜᴇꜱᴛ - ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴅᴏ'ᴄʀᴀᴄʏ*
 
 </div>
