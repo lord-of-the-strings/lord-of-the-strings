@@ -1,118 +1,38 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&text=AADITY%20SETU&fontColor=c0caf5&fontSize=42&fontAlignY=38&animation=fadeIn&desc=constatnt%20explorer%20of%20the%20uncharted%20seas&descAlignY=62&descSize=16" width="100%"/>
 
 ```
-     ████████        ██████████      root@lord-of-the-strings
+     ████████        ██████████
+                                     root@lord-of-the-strings
    ████    ████     ████              -------------------------
-   ████    ████     ████               OS: no idea
-   ████    ████       ████████         Host: github.com/lord-of-the-strings
-   ████████████               ████     Kernel: also no idea
-   ████    ████               ████     Shell: constantly changing
-   ████    ████     ████    ████       WM: no attention paid
-   ████    ████       ████████         Terminal: whatever
-                                       CPU: caffeine @ 99% load (always)
-                                       Memory: 404 not found
-                                       Theme: Tokyo Night [Storm] + neon overclock
-                                       Motto: constant explorer of uncharted seas
+   ████    ████     ████
+                                       OS: Windows 11, Android 15, Archlinux, Ubuntu
+   ████    ████       ████████         Uptime: 19 years
+   ████████████               ████     Host: Birla Institute of Technology, Mesra
+   ████    ████               ████     Kernel: Computer Science student and generalist
+   ████    ████     ████    ████
+                                       IDE: Visual Studio Code, BlueJ, IntelliJ IDEA, Android Studio, PyCharm, Zed, LazyVim, Vim
+   ████    ████       ████████
+                                       languages.programming: Java, C, Python, Rust, C++, Lua
+                                       languages.computer: QML, HTML, XML, CSS, JSON, LaTex, YML, TOML, HyprLang
+
+                                       frameworks.backend: Flask, FastAPI, Streamlitt, SpringBoot, Django
+                                       frameworks.devops: Docker
+                                       frameworks.security.blue: Spring Security, Firebase Auth, PyCryptoDome, hashlib
+                                       frameworks.security.red: Pwntools, CyberChef, SleuthKit, WireShark, BurpSuite
+                                       frameworks.ds/ml/ai: NumPy, matplotlib, Pandas, SkLearn
+
+                                       languages.real.native: Hindi
+                                       languages.real.proficient: English
+                                       languages.real.learning: French, Japanese
+
+                                       hobbies.software: exploring systems, backend development, open source, data science and ML
+                                       hobbies.life: Spanish guitar, quizzing, aerospace
+
+                                       aspirations.career: Software engineering
+                                       aspirations.life: Grateful
+
+                                       achievements.school.extra: Twice Indiannica Quiz League national finalist, Once ASISC (2023)
+                                       achievements.school.core: Top 1% in ISC Science, Top 0.1% in ISC Mathematics, ISC BiharTopper
 
                                        ● ● ● ● ● ● ● ●
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=3&width=100%25" width="100%"/>
-
-</div>
-
-### `~/boot --sequence --verbose`
-
-<div align="center">
-
-<img src="./assets/boot-sequence.svg" width="88%" alt="animated neon boot sequence"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
-</div>
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=680&lines=compiling+silence+into+sound;rendering+at+165hz%2C+thinking+at+60fps;git+commit+-m+%22it+works+on+my+machine%22;sudo+make+me+a+sandwich+--formal" alt="Typing SVG" />
-</h2>
-
-<div align="center">
-
-![Tokyo Night](https://img.shields.io/badge/palette-Tokyo%20Night%20Storm-1a1b26?style=for-the-badge&labelColor=0f0f1a&color=39FF14)
-![Status](https://img.shields.io/badge/status-recompiling%20reality-1a1b26?style=for-the-badge&labelColor=0f0f1a&color=39FF14)
-![Frame_time](https://img.shields.io/badge/frame_time-lower%20is%20vanity-1a1b26?style=for-the-badge&labelColor=0f0f1a&color=39FF14)
-
-</div>
-
----
-
-### `~/about.formal --no-truncate`
-
-I ᴀᴘᴘʀᴏᴀᴄʜ ᴇɴɢɪɴᴇᴇʀɪɴɢ ᴡɪᴛʜ ᴛʜᴇ ᴅɪꜱᴄɪᴘʟɪɴᴇ ᴏꜰ ᴀ ᴄʀᴀꜰᴛꜱᴍᴀɴ ᴀɴᴅ ᴛʜᴇ ᴄᴜʀɪᴏꜱɪᴛʏ ᴏꜰ ᴀN ᴇxᴘʟᴏʀᴇʀ. Mʏ ꜰᴏᴜɴᴅᴀᴛɪᴏɴꜱ ʀᴇꜱᴛ ɪɴ C ᴀɴᴅ Jᴀᴠᴀ, ᴛᴇᴍᴘᴇʀᴇᴅ ʙʏ ᴀ ᴡᴏʀᴋɪɴɢ ᴄᴏᴍᴍᴀɴᴅ ᴏꜰ ᴍᴇᴍᴏʀʏ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴀɴᴅ ᴛʜᴇ ᴅɪᴀɢɴᴏꜱɪꜱ ᴏꜰ ɪᴛꜱ ᴄᴏʀʀᴜᴘᴛɪᴏɴ; ᴀɴᴅ ᴇxᴛᴇɴᴅᴇᴅ ᴛʜʀᴏᴜɢʜ Pʏᴛʜᴏɴ, ᴡʜᴇʀᴇ ꜰʟᴜᴇɴᴄʏ ɪꜱ ꜱᴇᴄᴏɴᴅ ɴᴀᴛᴜʀᴇ.
-
-Eʟꜱᴇᴡʜᴇʀᴇ, I ʀᴇᴍᴀɪɴ ᴀ ᴅᴇʟɪʙᴇʀᴀᴛᴇ ʟᴇᴀʀɴᴇʀ: ɪɴ Rᴜꜱᴛ, ɪɴ ᴍᴏᴅᴇʀɴ ᴡᴇʙ ꜰʀᴀᴍᴇᴡᴏʀᴋꜱ, ᴀɴᴅ ɪɴ ᴛʜᴇ ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ ʟᴀɴᴅꜱᴄᴀᴘᴇ I ᴀᴍ ᴏɴʟʏ ʙᴇɢɪɴɴɪɴɢ ᴛᴏ ᴄʜᴀʀᴛ. Oɴ Lɪɴᴜx: ꜱᴘᴇᴄɪꜰɪᴄᴀʟʟʏ Aʀᴄʜ, ʀᴜɴ ᴅᴀɪʟʏ ᴀɴᴅ ᴡɪᴛʜᴏᴜᴛ ᴀᴘᴏʟᴏɢʏ — I ᴀᴍ ꜰᴜʟʟʏ ᴀᴛ ʜᴏᴍᴇ, ᴡʜɪʟᴇ ᴍʏ ɢʀᴀꜱᴘ ᴏꜰ HTML ᴀɴᴅ CSS ʀᴇᴍᴀɪɴꜱ ᴛʜᴀᴛ ᴏꜰ ᴀ ɢᴇɴᴇʀᴀʟɪꜱᴛ ʀᴀᴛʜᴇʀ ᴛʜᴀɴ ᴀ ꜱᴘᴇᴄɪᴀʟɪꜱᴛ.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
-</div>
-
-### `~/skills --render=neon`
-
-<div align="center">
-
-<img src="./assets/neon-bars.svg" width="88%" alt="animated neon skill bars"/>
-
-</div>
-
-<div align="center">
-
-**ꜱᴛᴀᴄᴋ, ꜰᴏʀ ᴛʜᴇ ʀᴇᴄᴏʀᴅ**
-
-*Expert*
-![C](https://img.shields.io/badge/-C-0f0f1a?style=flat-square&logo=c&logoColor=39FF14)
-![Java](https://img.shields.io/badge/-Java-0f0f1a?style=flat-square&logo=openjdk&logoColor=39FF14)
-![Python](https://img.shields.io/badge/-Python-0f0f1a?style=flat-square&logo=python&logoColor=39FF14)
-![Flask](https://img.shields.io/badge/-Flask-0f0f1a?style=flat-square&logo=flask&logoColor=39FF14)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-0f0f1a?style=flat-square&logo=archlinux&logoColor=39FF14)
-
-*Knower*
-![HTML5](https://img.shields.io/badge/-HTML5-0f0f1a?style=flat-square&logo=html5&logoColor=39FF14)
-![CSS3](https://img.shields.io/badge/-CSS3-0f0f1a?style=flat-square&logo=css3&logoColor=39FF14)
-
-*Learner*
-![C++](https://img.shields.io/badge/-C%2B%2B-0f0f1a?style=flat-square&logo=cplusplus&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0f0f1a?style=flat-square&logo=fastapi&logoColor=39FF14)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-0f0f1a?style=flat-square&logo=springboot&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/-Docker-0f0f1a?style=flat-square&logo=docker&logoColor=39FF14)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0f0f1a?style=flat-square&logo=scikitlearn&logoColor=39FF14)
-
-*Beginner*
-![Django](https://img.shields.io/badge/-Django-0f0f1a?style=flat-square&logo=django&logoColor=39FF14)
-![Rust](https://img.shields.io/badge/-Rust-0f0f1a?style=flat-square&logo=rust&logoColor=39FF14)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0f0f1a,1a9c3f,39FF14,1a9c3f,0f0f1a&height=2&width=100%25" width="100%"/>
-</div>
-
-### `~/currently --status`
-
-```yaml
-building:    something scheduled to be rewritten in rust eventually
-debugging:   a race condition visible only when unobserved
-listening:   at a volume too low to justify the headphones
-reading:     other people's commit messages, for the drama
-compiling:   patience, from source, again
-```
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0f0f1a,0a3d1e,1a9c3f,39FF14,1a9c3f,0a3d1e,0f0f1a&section=footer&text=DON'T%20WAIT%20DO%20IT%20NOW&fontColor=c0caf5&fontSize=18&animation=fadeIn" width="100%"/>
-
-*ᴄᴏɴɴᴇᴄᴛ, ꜰᴏʀᴋ, ᴏʀ ᴏᴘᴇɴ ᴀ ᴘᴜʟʟ ʀᴇǫᴜᴇꜱᴛ - ʟᴇᴛ'ꜱ ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴅᴏ'ᴄʀᴀᴄʏ*
-
-</div>
