@@ -7,9 +7,11 @@
 ╚═╝  ╚═╝                Kernel: Computer Science student and generalist
                        ─────────────────────────────
 ███████╗                IDE: Visual Studio Code, BlueJ, IntelliJ IDEA, Android Studio, PyCharm, Zed, LazyVim, Vim
+                        tools.random: TUI Studio, Canva, Beekeeper Studio, GitHub, mermaid.js, Bash/Zsh/Fish, Linux menuconfig
 ██╔════╝               ─────────────────────────────
 ███████╗                languages.programming: Java, C, Python, Rust, C++, Lua
 ╚════██║                languages.computer: QML, HTML, XML, CSS, JSON, LaTex, YML, TOML, HyprLang
+                        languages.sql: Sqlite3, MySQL, Postgresql
 ███████║               ─────────────────────────────
 ╚══════╝                frameworks.backend: Flask, FastAPI, Streamlitt, SpringBoot, Django
                         frameworks.devops: Docker
